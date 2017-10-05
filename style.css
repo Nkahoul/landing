@@ -2,18 +2,17 @@ body{
   background: #f1fec6;
   color: #74a4bc;
   font-size: 16px;
-  font-family: Helvetica;
+  font-family: 'Montserrat', sans-serif
   font-weight: lighter;
 }
 
 h1{
-  font-family: 'Slabo 27px', serif;;
+  font-family: 'Raleway', sans-serif;
   color: #29339b ;
-  font-weight: lighter;
-  font-size: 50px;
+  font-weight: bold;
+  font-size: 95px;
 }
 h2 {
-  font-family: 'Roboto Condensed', sans-serif;;
   color: #493657;
   font-weight: lighter;
   font-size: 25px;
@@ -28,7 +27,7 @@ a:hover {
 
 #banner {
 	text-align: center;
-	background-image: url(https://images.unsplash.com/photo-1489069313310-63735a4f3010?dpr=1&auto=compress,format&fit=crop&w=1566&h=&q=80&cs=tinysrgb&crop=);
+	background-image: url(images/bg1.jpeg);
   background-size: cover;
   padding: 100px;
   color: white;
@@ -40,44 +39,55 @@ a:hover {
 }
 
 #banner p {
+  font-family: 'Montserrat', sans-serif;
 	color : #2a1a1f;
 	text-shadow: none;
 	font-size : 18px;
 }
 
 .card {
+  font-family: 'Ubuntu', sans-serif;
 	text-align: center;
 	padding: 150px;
 	font-weight: lighter;
   margin-top: 50px;
   margin-bottom: 100px;
+  border-radius: 7px;
+
+}
+
+.card p {
+  font-family: 'Montserrat', sans-serif;
+  color: #251351;
 }
 
 .card1 {
   background-color: #f9564f;
-  padding: 100px;
+  padding: 50px;
   padding-top: 80px;
-  padding-bottom: 120px;
+  padding-bottom: 122px;
 }
 
 .card2 {
   background-color: #4ecdc4;
-  padding: 100px;
+  padding: 50px;
   padding-top: 80px;
-  padding-left: 75px;
-  padding-bottom: 145px;
+  padding-left: 45px;
+  padding-bottom: 122px;
 }
 
 .card3 {
   background-color: #ffcbdd;
-  padding: 100px;
+  padding: 50px;
   padding-top: 80px;
+  padding-bottom: 100px;
 }
 
 .card4 {
   background-color: #0cce6b;
-  padding: 100px;
+  padding: 50px;
   padding-top: 80px;
+  padding-bottom: 123px;
 }
 
 #footer{
