@@ -29,9 +29,11 @@ a:hover {
 	text-align: center;
 	background-image: url(images/bg1.jpeg);
   background-size: cover;
-  padding: 100px;
+  margin:auto;
   color: white;
   text-shadow: 1px 1px 5px black;
+  padding-bottom: 50px;
+  padding-top: 50px;
 }
 
 #banner h1 {
@@ -87,7 +89,7 @@ a:hover {
   background-color: #0cce6b;
   padding: 50px;
   padding-top: 80px;
-  padding-bottom: 123px;
+  padding-bottom: 72px;
 }
 
 #footer{
