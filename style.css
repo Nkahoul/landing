@@ -10,7 +10,7 @@ h1{
   font-family: 'Raleway', sans-serif;
   color: #29339b ;
   font-weight: bold;
-  font-size: 95px;
+  font-size: 50px;
 }
 h2 {
   color: #493657;
@@ -32,8 +32,8 @@ a:hover {
   margin:auto;
   color: white;
   text-shadow: 1px 1px 5px black;
-  padding-bottom: 50px;
-  padding-top: 50px;
+  padding-bottom: 90px;
+  padding-top: 90px;
 }
 
 #banner h1 {
@@ -45,6 +45,7 @@ a:hover {
 	color : #2a1a1f;
 	text-shadow: none;
 	font-size : 18px;
+  margin: 50px;
 }
 
 .card {
@@ -89,7 +90,7 @@ a:hover {
   background-color: #0cce6b;
   padding: 50px;
   padding-top: 80px;
-  padding-bottom: 72px;
+  padding-bottom: 100px;
 }
 
 #footer{
