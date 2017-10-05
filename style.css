@@ -1,0 +1,87 @@
+body{
+  background: #f1fec6;
+  color: #74a4bc;
+  font-size: 16px;
+  font-family: Helvetica;
+  font-weight: lighter;
+}
+
+h1{
+  font-family: 'Slabo 27px', serif;;
+  color: #29339b ;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family: 'Roboto Condensed', sans-serif;;
+  color: #493657;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: #b14aed;
+}
+a:hover {
+  text-decoration: none;
+  color: red	 ;
+}
+
+#banner {
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1489069313310-63735a4f3010?dpr=1&auto=compress,format&fit=crop&w=1566&h=&q=80&cs=tinysrgb&crop=);
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner h1 {
+	color : red;
+}
+
+#banner p {
+	color : #2a1a1f;
+	text-shadow: none;
+	font-size : 18px;
+}
+
+.card {
+	text-align: center;
+	padding: 50px;
+	font-weight: lighter;
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  background-size: cover;
+  color: lightgrey;
+  font-size: 13px;
+}
+
+#footer a {
+	color:white;
+	font-size: 20px;
+}
+
+#footer a:hover {
+	color: lightgrey;
+}
+
+.fa-youtube {
+	color:#E90000;
+}
+
+.fa-facebook {
+	color:#2b59c3;
+}
+
+.fa-twitter {
+	color:#18a999;
+}
+
+.btn-default {
+	color:#b14aed ;
+}
+
+
