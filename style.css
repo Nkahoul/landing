@@ -30,7 +30,7 @@ a:hover {
 	text-align: center;
 	background-image: url(https://images.unsplash.com/photo-1489069313310-63735a4f3010?dpr=1&auto=compress,format&fit=crop&w=1566&h=&q=80&cs=tinysrgb&crop=);
   background-size: cover;
-  padding: 150px;
+  padding: 100px;
   color: white;
   text-shadow: 1px 1px 5px black;
 }
@@ -47,8 +47,36 @@ a:hover {
 
 .card {
 	text-align: center;
-	padding: 50px;
+	padding: 150px;
 	font-weight: lighter;
+  margin-top: 50px;
+}
+
+.card1 {
+  background-color: #f9564f;
+  padding: 100px;
+  padding-top: 80px;
+  padding-bottom: 120px;
+}
+
+.card2 {
+  background-color: #4ecdc4;
+  padding: 100px;
+  padding-top: 80px;
+  padding-left: 75px;
+  padding-bottom: 145px;
+}
+
+.card3 {
+  background-color: #ffcbdd;
+  padding: 100px;
+  padding-top: 80px;
+}
+
+.card4 {
+  background-color: #0cce6b;
+  padding: 100px;
+  padding-top: 80px;
 }
 
 #footer{
